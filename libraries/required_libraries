@@ -1,0 +1,11 @@
+tensorflow: 1.10
+nltk
+numpy
+pandas
+nltk.corpus  
+langdetect 
+pandas_ml
+seaborn
+tables
+maptlotlib
+sklearn
